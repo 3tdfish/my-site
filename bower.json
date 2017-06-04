@@ -1,0 +1,17 @@
+{
+  "name": "my-site",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "3tdfish <505489117@qq.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
